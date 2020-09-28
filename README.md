@@ -3,11 +3,12 @@ TechNews in a ...
 
 # Description
 
-This project is an updated and personalized version of my final project while styding at Ironhack - titled Project3Ironhack in my repositories.
+This project a continuation of my final project while studying at Ironhack, 'Digital Digest' (Project3Ironhack in my repositories).
 
-The project uses Hackernews API; Hackernews is a site that my collaborator and I admired for it's aestetic and cut-though way of sharing recent and most relevent information.
-Although we love the objective of Hackernews, we also noticed some areas that need improvement. i.e articles unrelated to tech, and the articles not being keyword searchable.
-In this day and age, people don't have the time to scroll through hundreds of articles and they want their news fast and tailored to their needs.
+The project uses HackerNews API; HackerNews is a site that my collaborator and I admired for it's aesthetic and cut-though way of sharing relevant information.
+Although we love the objective of HackerNews, we also noticed some areas that need improvement. i.e existence of articles unrelated to tech, and articles not being keyword searchable.
+
+In this day and age, people don't have the time to scroll through hundreds of articles and they want their news fast and tailored to their needs. Thus, we've attempted to create a more convenient alternative, and I continue to make improvements. 
 
 # Tools
 
