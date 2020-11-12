@@ -1,5 +1,4 @@
-# Nutshell
-TechNews in a ...
+# 07.04.2019
 
 # Description
 
